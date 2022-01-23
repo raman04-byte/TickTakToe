@@ -1,2 +1,2 @@
 # TickTakToe
-This is a tick tack toe game which 
+This is a tick tack toe game in Android Studio.
